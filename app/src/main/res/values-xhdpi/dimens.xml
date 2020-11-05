@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small">5dp</dimen>
+    <dimen name="medium">10dp</dimen>
+    <dimen name="large">15dp</dimen>
+    <dimen name="extra">20dp</dimen>
+
+    <dimen name="text_small">11sp</dimen>
+    <dimen name="text_medium">13sp</dimen>
+    <dimen name="text_large">15sp</dimen>
+    <dimen name="text_heading">17sp</dimen>
+    <dimen name="text_toolbar">19sp</dimen>
+
+
+
+</resources>

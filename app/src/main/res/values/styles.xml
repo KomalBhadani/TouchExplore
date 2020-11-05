@@ -1,0 +1,87 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextRegularWhite">
+        <item name="android:textSize">@dimen/text_medium</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextSmallWhite">
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextSmall">
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextRegular">
+        <item name="android:textSize">@dimen/text_medium</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextLarge">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextLargeWhite">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextRegularLight">
+        <item name="android:textSize">@dimen/text_medium</item>
+        <item name="android:textColor">@color/colorTextLight</item>
+        <item name="android:fontFamily">@font/regular_font</item>
+    </style>
+
+    <style name="TextLargeMediumWhite">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:fontFamily">@font/medium_font</item>
+    </style>
+
+    <style name="TextLargeMedium">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">@font/medium_font</item>
+    </style>
+
+    <style name="TextHeading">
+        <item name="android:textSize">@dimen/text_heading</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">@font/medium_font</item>
+    </style>
+
+    <style name="TextHeadingWhite">
+        <item name="android:textSize">@dimen/text_heading</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:fontFamily">@font/medium_font</item>
+    </style>
+
+    <style name="TextToolBar">
+        <item name="android:textSize">@dimen/text_toolbar</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:fontFamily">@font/medium_font</item>
+    </style>
+
+    <style name="ProgressGold" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorAccent" tools:targetApi="lollipop">@color/colorAccent</item>
+    </style>
+
+</resources>

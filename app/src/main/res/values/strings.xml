@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TouchExplore</string>
+    <string name="access_token">pk.eyJ1IjoiZGVyeiIsImEiOiJjaW80ZDM1c24wMDJwdmtrcGs3cWZuMzBvIn0.kXGGjiq8gWSM4AxFBN99vg</string>
+<!--    sk.eyJ1Ijoia29tYWxiaGFkYW5pIiwiYSI6ImNrZ2k1NWUybzAwOWYycnN1dHc2bXV5cHoifQ.r-S5u2t0UAbcktZJBTIe3g>-->
+
+    <string name="msg_no_network">No Network</string>
+    <string name="msg_retry">Retry</string>
+
+    <!--Basic user location permission toasts-->
+    <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="query_feature_no_properties_found">No property found</string>
+
+    // MARK: - Streets
+    <string-array name="streets">
+        <item>residential</item>
+        <item>street</item>
+        <item>street_limited</item>
+        <item>secondary</item>
+        <item>tertiary</item>
+        <item>primary</item>
+        <item>motorway</item>
+    </string-array>
+
+    // MARK: - Forests
+    <string-array name="forests">
+    <item>residential</item>
+    </string-array>
+
+
+</resources>
